@@ -1,2 +1,2 @@
 # KSP-funTweaks
-this repo contains experimental tweak cfg's .. use them with caution!
+this repo contains experimental tweak cfg's for KSP .. use them with caution!
